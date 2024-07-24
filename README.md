@@ -1,7 +1,5 @@
-<div>
-<p align="center" color="GREEN">
-  <h1>🅂🄷🄰🄳🄾🅆🄲🅁🅈🄿🅃</h1>
-</p>
+<div align="center" color="red">
+ <h1>🅂🄷🄰🄳🄾🅆🄲🅁🅈🄿🅃</h1>
 </div>
   
 ## :octocat:SYSTEM AVAILABILITY
