@@ -29,6 +29,7 @@ bash run.sh
 --------------
 ## :octocat:SYSTEM PREVIEW
 `Windows App`
+
 ![Screenshot (2319)](https://github.com/user-attachments/assets/55711a57-51eb-4792-95d5-4aea64a2553b)
 ![Screenshot 2024-07-24 115553](https://github.com/user-attachments/assets/8071c34e-d415-4fbb-830a-1f137ec08b84)
 
