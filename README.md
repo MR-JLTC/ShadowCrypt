@@ -1,4 +1,11 @@
-![Screenshot (2322)](https://github.com/user-attachments/assets/3fc83836-975c-4845-a392-0774416a9259)
+<div align="center">
+  <h1>
+    ┏┓┓    ┓     ┏┓       
+    ┗┓┣┓┏┓┏┫┏┓┓┏┏┃ ┏┓┓┏┏┓╋
+    ┗┛┛┗┗┻┗┻┗┛┗┻┛┗┛┛ ┗┫┣┛┗
+                      ┛┛
+  </h1>
+</div>
 ## :octocat:SYSTEM AVAILABILITY
 [![Static Badge](https://img.shields.io/badge/Termux-%20v3.0%20-red?style=flat)](release/Termux)
 [![Static Badge](https://img.shields.io/badge/Windows(Console)-%20v3.0%20-blue?style=flat)](release/Windows/Console)
