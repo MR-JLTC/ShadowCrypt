@@ -1,8 +1,10 @@
 <div align="center">
   <img src="https://example.com/your-image.jpg" alt="Description of the image">
-  <h1>╔═╗┬ ┬┌─┐┌┬┐┌─┐┬ ┬╔═╗┬─┐┬ ┬┌─┐┌┬┐
-╚═╗├─┤├─┤ │││ ││││║  ├┬┘└┬┘├─┘ │ 
-╚═╝┴ ┴┴ ┴─┴┘└─┘└┴┘╚═╝┴└─ ┴ ┴   ┴ </h1>
+  <h1>
+╔═╗┬ ┬┌─┐┌┬┐┌─┐┬ ┬╔═╗┬─┐┬ ┬┌─┐┌┬┐<br>
+╚═╗├─┤├─┤ │││ ││││║  ├┬┘└┬┘├─┘ │ <br>
+╚═╝┴ ┴┴ ┴─┴┘└─┘└┴┘╚═╝┴└─ ┴ ┴   ┴ <br>
+</h1>
 </div>
 ## :octocat:SYSTEM AVAILABILITY
 [![Static Badge](https://img.shields.io/badge/Termux-%20v3.0%20-red?style=flat)](release/Termux)
