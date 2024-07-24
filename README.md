@@ -1,4 +1,6 @@
-<div align="center"><h1><span style="color:#ff0000; font-size:24px;">🅂🄷🄰🄳🄾🅆🄲🅁🅈🄿🅃</span></h1></div>
+<p align="center">
+  <span style="color:#ff0000; font-size:24px;">🅂🄷🄰🄳🄾🅆🄲🅁🅈🄿🅃</span>
+</p>
 ## :octocat:SYSTEM AVAILABILITY
 [![Static Badge](https://img.shields.io/badge/Termux-%20v3.0%20-red?style=flat)](release/Termux)
 [![Static Badge](https://img.shields.io/badge/Windows(Console)-%20v3.0%20-blue?style=flat)](release/Windows/Console)
