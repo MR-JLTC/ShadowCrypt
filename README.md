@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://example.com/your-image.jpg" alt="Description of the image">
   <h1>
-╔═╗┬ ┬┌─┐┌┬┐┌─┐┬ ┬╔═╗┬─┐┬ ┬┌─┐┌┬┐<br>
+__╔═╗┬ ┬┌─┐┌┬┐┌─┐┬ ┬╔═╗┬─┐┬ ┬┌─┐┌┬┐<br>
 ╚═╗├─┤├─┤ │││ ││││║  ├┬┘└┬┘├─┘ │ <br>
 ╚═╝┴ ┴┴ ┴─┴┘└─┘└┴┘╚═╝┴└─ ┴ ┴   ┴ <br>
 </h1>
