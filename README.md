@@ -1,6 +1,6 @@
 <div>
-<p align="center">
-  <span style="color:#ff0000; font-size:24px;">🅂🄷🄰🄳🄾🅆🄲🅁🅈🄿🅃</span>
+<p align="center" color="GREEN">
+  <h1>🅂🄷🄰🄳🄾🅆🄲🅁🅈🄿🅃</h1>
 </p>
 </div>
   
