@@ -16,7 +16,7 @@ cd storage/downloads
 ```
 unzip ShadowCrypt.zip
 ```   
-3. After extracting the file, run the following command:
+2. After extracting the file, run the following command:
 ```
 cd ShadowCrypt
 ```
@@ -33,7 +33,8 @@ bash run.sh
 ## :octocat:SYSTEM PREVIEW
 `Windows App`
 
-![Screenshot (2319)](https://github.com/user-attachments/assets/55711a57-51eb-4792-95d5-4aea64a2553b)
-![Screenshot 2024-07-24 115553](https://github.com/user-attachments/assets/8071c34e-d415-4fbb-830a-1f137ec08b84)
+![Screenshot (2323)](https://github.com/user-attachments/assets/dfd41964-6bb6-4d6a-9f1d-580657731327)
+![Screenshot 2024-07-25 092122](https://github.com/user-attachments/assets/1416e7f2-c54e-4fd5-8ed1-d11a7f79b8c6)
+
 
 
