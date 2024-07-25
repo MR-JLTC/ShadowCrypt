@@ -3,9 +3,9 @@
 </div>
   
 ## :octocat:SYSTEM AVAILABILITY
-[![Static Badge](https://img.shields.io/badge/Termux-%20v3.0%20-red?style=flat)](release/Termux)
-[![Static Badge](https://img.shields.io/badge/Windows(Console)-%20v3.0%20-blue?style=flat)](release/Windows/Console)
-[![Static Badge](https://img.shields.io/badge/Windows(App)-%20v3.0%20-blue?style=flat)](release/Windows/Software)
+[![Static Badge](https://img.shields.io/badge/Termux-%20v3.0%20-red?style=flat)](https://github.com/MR-JLTC/ShadowCrypt/releases/download/v3.0/ShadowCrypt.zip)
+[![Static Badge](https://img.shields.io/badge/Windows(Console)-%20v3.0%20-blue?style=flat)](https://github.com/MR-JLTC/ShadowCrypt/releases/download/v3.0/Setup_ShadowCryptV3.0.exe)
+[![Static Badge](https://img.shields.io/badge/Windows(App)-%20v3.0%20-blue?style=flat)](https://github.com/MR-JLTC/ShadowCrypt/releases/download/v3.0/Setup_ShadowCryptAppV3.0.exe)
 
 --------------
 ### :octocat:Termux Installation
