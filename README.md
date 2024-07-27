@@ -2,7 +2,7 @@
 ▒█▀▀▀█ █░░█ █▀▀█ █▀▀▄ █▀▀█ █░░░█ ▒█▀▀█ █▀▀█ █░░█ █▀▀█ ▀▀█▀▀ <br>
 ░▀▀▀▄▄ █▀▀█ █▄▄█ █░░█ █░░█ █▄█▄█ ▒█░░░ █▄▄▀ █▄▄█ █░░█ ░░█░░ <br>
 ▒█▄▄▄█ ▀░░▀ ▀░░▀ ▀▀▀░ ▀▀▀▀ ░▀░▀░ ▒█▄▄█ ▀░▀▀ ▄▄▄█ █▀▀▀ ░░▀░░<br>
-<br><h4>Available Versions</h4>
+<h4>Available Versions</h4>
   
 [![Static Badge](https://img.shields.io/badge/Android-%20Termux-green)](https://github.com/MR-JLTC/ShadowCrypt/releases/download/v3.0/ShadowCrypt.zip)
 [![Static Badge](https://img.shields.io/badge/Windows-%20Console-blue)](https://github.com/MR-JLTC/ShadowCrypt/releases/download/v3.0/Setup_ShadowCryptV3.0.exe)
