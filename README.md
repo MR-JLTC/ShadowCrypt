@@ -31,7 +31,7 @@ bash run.sh
 ### :octocat:Windows Installation
 1. Download the system installer file
 2. Click the installer, then let it finish the installation process
-3. Click the `.exe` file
+3. To run just click the `.exe` file
 
 --------------
 ## :octocat:SYSTEM PREVIEW
