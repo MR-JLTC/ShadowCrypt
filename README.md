@@ -13,7 +13,6 @@
 
 ![Static Badge](https://img.shields.io/badge/Android-%20Mobile-green?style=flat)
 </div>
-<i class="fa-brands fa-android"></i>
 
 --------------
 ### :octocat:Termux Installation
