@@ -15,6 +15,7 @@ import gocipher.ENUM_Utilities.CIPHER_TYPE;
 /**
  *
  * @author hunter
+ * @DP Factory Pattern
  */
 public class CipherServiceFactory {
     private CipherServiceFactory(){}
