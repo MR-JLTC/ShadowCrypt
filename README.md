@@ -8,12 +8,12 @@
 [![Static Badge](https://img.shields.io/badge/Windows-%20Console-blue)](https://github.com/MR-JLTC/ShadowCrypt/releases/download/v3.0/Setup_ShadowCryptV3.0.exe)
 [![Static Badge](https://img.shields.io/badge/Windows-%20DesktopApp-blue)](https://github.com/MR-JLTC/ShadowCrypt/releases/download/v3.0/ShadowCryptAppV3.7.exe)
 
-<i class="fa-brands fa-android"></i>
+
 <h4>Upcoming Version:</h4>
 
 ![Static Badge](https://img.shields.io/badge/Android-%20Mobile-green?style=flat)
 </div>
-
+<i class="fa-brands fa-android"></i>
 
 --------------
 ### :octocat:Termux Installation
