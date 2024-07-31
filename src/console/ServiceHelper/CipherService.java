@@ -31,6 +31,7 @@ import gocipher.SeviceFactory.CipherServiceFactory;
 /**
  *
  * @author hunter
+ * @DP Strategy Pattern
  */
 public class CipherService {
     private Cipher cipherService;
