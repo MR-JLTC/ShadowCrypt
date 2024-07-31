@@ -31,6 +31,7 @@ import code.ServiceFactory.CipherServiceFactory;
 /**
  *
  * @author MR_JLTC
+ * @DP Strategy Pattern
  */
 public class CipherService {
     private Cipher cipherService;
