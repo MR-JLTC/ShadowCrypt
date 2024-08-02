@@ -11,7 +11,7 @@
 
 <h4>:eye_speech_bubble:Upcoming Version:</h4>
 
-![Static Badge](https://img.shields.io/badge/Android-%20Mobile-green?style=flat)
+![Static Badge](https://img.shields.io/badge/Android-%20Mobile-green?style=flat&logo=android&logoColor=white)
 </div>
 
 --------------
