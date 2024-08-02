@@ -45,7 +45,7 @@ public class VernamCipher_ASCII implements Cipher{
         sensitiveDataWiper(msg);
         if(isKeyLengthGreater(letters.length)) modifyKeys();
         for(int index=0; index<letters.length; index++){
-            letters[index] = toChar(toDecimal(letters[index]) ^ (shift_keys.get(0)));
+            letters[index] = toChar(toDecimal(letters[index]) ^ shift_keys.get(0));
             shift_keys.add(shift_keys.remove(0));
         }
         return charArrayConcatenator(letters);
