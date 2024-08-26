@@ -9,7 +9,7 @@
 [![Static Badge](https://img.shields.io/badge/Windows-%20DesktopApp-blue)](https://github.com/MR-JLTC/ShadowCrypt/releases/download/v3.0/ShadowCryptAppV3.7.exe)
 
 
-<h4>:eye_speech_bubble:Upcoming Version:</h4>
+<h4>:eye_speech_bubble:Newest Version:</h4>
 
 ![Static Badge](https://img.shields.io/badge/Android-%20MobileApp-green?style=flat&logo=android&logoColor=white)
 </div>
