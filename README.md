@@ -43,5 +43,16 @@ bash run.sh
 ![Screenshot (2323)](https://github.com/user-attachments/assets/dfd41964-6bb6-4d6a-9f1d-580657731327)
 ![Screenshot 2024-07-25 092122](https://github.com/user-attachments/assets/1416e7f2-c54e-4fd5-8ed1-d11a7f79b8c6)
 
+--------------
+`Mobile App`
+
+![Screenshot_20240826_182505](https://github.com/user-attachments/assets/6b5e8886-871d-4977-acc9-0b61bfbab726)
+![Screenshot_20240826_182556](https://github.com/user-attachments/assets/aaafb993-510b-4248-84e7-a553c8ddb392)
+![Screenshot_20240826_183139](https://github.com/user-attachments/assets/40c4ba52-7477-4ee8-b8a7-e45d45a1b5ae)
+![Screenshot_20240826_183502](https://github.com/user-attachments/assets/c06b46cb-44aa-47e9-aad5-518bd3db2239)
+
+
+
+
 
 
