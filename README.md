@@ -41,7 +41,7 @@ bash run.sh
 2. Create/Open a new Java Application project.
 3. Right-click the project → Select Properties.
 4. Go to Libraries → Click Add JAR/Folder.
-5. Select ShadowCrypt_Lib-v1.0.jar from the previous project’s dist/ folder.
+5. Select ShadowCrypt_Lib-v1.0.jar from the project’s directory.
 6. Click OK.
    
 ```pascal
