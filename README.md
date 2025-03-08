@@ -37,6 +37,13 @@ bash run.sh
 
 --------------
 ### :octocat: JAR Library Integration Guide
+1. Click [here](https://github.com/MR-JLTC/ShadowCrypt/releases/download/v3.7/ShadowCrypt_Lib-v1.0.jar) to download the library
+2. Create/Open a new Java Application project.
+3. Right-click the project → Select Properties.
+4. Go to Libraries → Click Add JAR/Folder.
+5. Select ShadowCrypt_Lib-v1.0.jar from the previous project’s dist/ folder.
+6. Click OK.
+7. 
 ```pascal
 /* EXAMPLE Encryption*/
 String enc_text = ShadowCrypt.encrypt("Sample Text", 25, CIPHER_TYPE.SHIFT_CIPHER_ASCII);
