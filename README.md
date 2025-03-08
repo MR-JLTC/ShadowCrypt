@@ -36,6 +36,30 @@ bash run.sh
 3. To run just click the `.exe` file
 
 --------------
+### :octocat: JAR Library Integration Guide
+```pascal
+/* EXAMPLE Encryption*/
+String enc_text = ShadowCrypt.encrypt("Sample Text", 25, CIPHER_TYPE.SHIFT_CIPHER_ASCII);
+System.out.println("Result: "+ enc_text);
+
+String dec_text = ShadowCrypt.decrypt(enc_text, 25, CIPHER_TYPE.SHIFT_CIPHER_ASCII);
+System.out.println("Result: "+ dec_text);
+```
+
+```pascal
+/* Other method*/
+ShadowCrypt.developerInfo();
+```
+
+```pascal
+/* Available Cipher Types*/
+CIPHER_TYPE.SHIFT_CIPHER
+CIPHER_TYPE.SHIFT_CIPHER_ASCII
+CIPHER_TYPE.VIGENERE_CIPHER
+CIPHER_TYPE.VIGENERE_CIPHER_ASCII
+CIPHER_TYPE.VERNAM_CIPHER_ASCII        
+```
+--------------
 ## :octocat:SYSTEM PREVIEW
 `Windows App`
 
