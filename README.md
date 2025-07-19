@@ -37,26 +37,12 @@ bash run.sh
 
 --------------
 ### :octocat: JAR Library Integration Guide
-1. Click [here](https://github.com/MR-JLTC/ShadowCrypt/releases/download/v3.7/ShadowCrypt_Lib-v1.0.jar) to download the library
+1. Click [here](https://github.com/MR-JLTC/ShadowCrypt/releases/download/v3.7/ShadowCryptLibV1.5.jar) to download the library
 2. Create/Open a new Java Application project.
 3. Right-click the project → Select Properties.
 4. Go to Libraries → Click Add JAR/Folder.
 5. Locate and select ShadowCrypt_LibV1.5.jar
 6. Click OK.
-   
-```pascal
-/* EXAMPLE Encryption*/
-String enc_text = ShadowCrypt.encrypt("Sample Text", 25, CIPHER_TYPE.SHIFT_CIPHER_ASCII);
-System.out.println("Result: "+ enc_text);
-
-String dec_text = ShadowCrypt.decrypt(enc_text, 25, CIPHER_TYPE.SHIFT_CIPHER_ASCII);
-System.out.println("Result: "+ dec_text);
-```
-
-```pascal
-/* Other method*/
-ShadowCrypt.developerInfo();
-```
 
 ```pascal
 /* NEW FEATURE <<-BINARY CONVERSION->> */
@@ -75,6 +61,20 @@ System.out.println("Result: "+ ShadowCrypt.ProcessCipher(
    "01001010 01001100 01010100 01000011", 
    "none")
 );
+```
+
+```pascal
+/* EXAMPLE Encryption*/
+String enc_text = ShadowCrypt.encrypt("Sample Text", 25, CIPHER_TYPE.SHIFT_CIPHER_ASCII);
+System.out.println("Result: "+ enc_text);
+
+String dec_text = ShadowCrypt.decrypt(enc_text, 25, CIPHER_TYPE.SHIFT_CIPHER_ASCII);
+System.out.println("Result: "+ dec_text);
+```
+
+```pascal
+/* Other method*/
+ShadowCrypt.developerInfo();
 ```
 
 ```pascal
