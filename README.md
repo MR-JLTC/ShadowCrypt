@@ -41,7 +41,7 @@ bash run.sh
 2. Create/Open a new Java Application project.
 3. Right-click the project → Select Properties.
 4. Go to Libraries → Click Add JAR/Folder.
-5. Locate and select ShadowCrypt_Lib-v1.0.jar
+5. Locate and select ShadowCrypt_LibV1.5.jar
 6. Click OK.
    
 ```pascal
@@ -59,12 +59,32 @@ ShadowCrypt.developerInfo();
 ```
 
 ```pascal
+/* NEW FEATURE <<-BINARY CONVERSION->> */
+
+//-> Text to Binary
+System.out.println("Result: "+ ShadowCrypt.ProcessCipher(
+  CIPHER_TYPE.BINARY, 
+  TYPE.ENCRYPTION, 
+  "JLTC", 
+  "none")
+);
+//-> Binary to Text
+System.out.println("Result: "+ ShadowCrypt.ProcessCipher(
+   CIPHER_TYPE.BINARY, 
+   TYPE.DECRYPTION, 
+   "01001010 01001100 01010100 01000011", 
+   "none")
+);
+```
+
+```pascal
 /* Available Cipher Types*/
+CIPHER_TYPE.BINARY
 CIPHER_TYPE.SHIFT_CIPHER
 CIPHER_TYPE.SHIFT_CIPHER_ASCII
 CIPHER_TYPE.VIGENERE_CIPHER
 CIPHER_TYPE.VIGENERE_CIPHER_ASCII
-CIPHER_TYPE.VERNAM_CIPHER_ASCII        
+CIPHER_TYPE.VERNAM_CIPHER_ASCII
 ```
 --------------
 ## :octocat:SYSTEM PREVIEW
