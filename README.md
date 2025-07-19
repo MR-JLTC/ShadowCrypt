@@ -75,6 +75,7 @@ System.out.println("Result: "+ dec_text);
 ```pascal
 /* Other method*/
 ShadowCrypt.developerInfo();
+ShadowCrypt.DevInfo();
 ```
 
 ```pascal
