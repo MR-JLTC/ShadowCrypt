@@ -64,12 +64,34 @@ System.out.println("Result: "+ ShadowCrypt.ProcessCipher(
 ```
 
 ```pascal
-/* EXAMPLE Encryption*/
-String enc_text = ShadowCrypt.encrypt("Sample Text", 25, CIPHER_TYPE.SHIFT_CIPHER_ASCII);
-System.out.println("Result: "+ enc_text);
+/* EXAMPLE Encryption & Decryption */
+String enc_text = ShadowCrypt.ProcessCipher(
+  CIPHER_TYPE.SHIFT_CIPHER_ASCII, 
+  TYPE.ENCRYPTION, 
+  "Hello World", 
+  13)
+);
 
-String dec_text = ShadowCrypt.decrypt(enc_text, 25, CIPHER_TYPE.SHIFT_CIPHER_ASCII);
-System.out.println("Result: "+ dec_text);
+System.out.println("Result: "+ ShadowCrypt.ProcessCipher(
+  CIPHER_TYPE.SHIFT_CIPHER_ASCII, 
+  TYPE.DECRYPTION, 
+  enc_text, 
+  13)
+);
+-------------------->
+String enc_text = ShadowCrypt.ProcessCipher(
+  CIPHER_TYPE.VIGENERE_CIPHER_ASCII, 
+  TYPE.ENCRYPTION, 
+  "Hello World", 
+  "cipher")
+);
+
+System.out.println("Result: "+ ShadowCrypt.ProcessCipher(
+  CIPHER_TYPE.VIGENERE_CIPHER_ASCII, 
+  TYPE.DECRYPTION, 
+  enc_text, 
+  "cipher")
+);
 ```
 
 ```pascal
